@@ -14,7 +14,7 @@ monthly_challenges = {
     'september': 'eat a donut',
     'october': 'kill god again',
     'november': 'gaze into the abyss',
-    'december': 'oh shit its gazing back',
+    'december': None,
 }
 
 
